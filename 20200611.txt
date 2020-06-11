@@ -1,2 +1,3 @@
 你好 杨妹妹 在家吗
 git has a mutabke index called stage.
+gti teack change.
