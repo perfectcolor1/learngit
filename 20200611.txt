@@ -2,3 +2,4 @@
 git has a mutabke index called stage.
 gti teack change.
 git new
+add new hha.
